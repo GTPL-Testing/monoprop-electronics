@@ -3,12 +3,6 @@
 **Avionics hardware** for the Monoprop UAV / lander: PCB schematics, board
 layouts, gerbers, and datasheets.
 
-> **Provenance:** Split out of the monolithic
-> [`GTPL-Testing/MonopropUAV`](https://github.com/GTPL-Testing/MonopropUAV)
-> repository during the July 2026 reorganization. Full commit history for these
-> files is preserved. See the [GTPL-test root README](../README.md) for the
-> complete old→new mapping.
-
 ## Contents
 
 | Path | What it is |
